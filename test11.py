@@ -1,3 +1,6 @@
+# coding=utf-8
+
+print "中文测试"
 def fact_iter(num, product):
     if num == 1:
         return product

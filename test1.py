@@ -1,7 +1,9 @@
+#-*- coding: utf-8 -*-
 import sys
 import time
 from collections import deque
 
+print "中文测试"
 fancy_loading = deque('>--------------------')
 
 while True:
